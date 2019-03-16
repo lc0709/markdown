@@ -6,10 +6,14 @@ learning how to use markdown in github
 **highlight**
 
 *italic*
-*
-**both***
+
+***both***
 
 ~~cancelled~~
 - wdwwd 
 - ddwdwwd 
 -dwddwdwd
+
+
+[naver]: https://www.naver.com
+[naver] is korean website.
