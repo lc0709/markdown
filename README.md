@@ -1,9 +1,15 @@
 # markdown
 learning how to use markdown in github
-##say hello
+
+## say hello
+
 **highlight**
+
 *italic*
-***both***
+*
+**both***
+
 ~~cancelled~~
--1. 1
--2. 3
+- wdwwd 
+- ddwdwwd 
+-dwddwdwd
